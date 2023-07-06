@@ -13,7 +13,8 @@ npm install
 ```
 npm run dev
 ```
-Project Images
+
+##Project Images
 ![Thumbnail](thumbnail.png)
 ![Body](body.png)
 ![Search](search.png)
